@@ -1,6 +1,7 @@
 # VRM-HIKARU
 
 ___ABOUT THE FONT___
+
 VRM HIKARU is a free monospace font designed by Antoine Sigur at atelir va.ri.mo., feel free tu use it, modify it or distribute it. 
 
 The VRM HIKARU is drawn on an online Go game board. Every Glyph is the result of an online confrontation.
@@ -11,6 +12,7 @@ The font is named after the character Hikaru from the manga HIKARU NO GO.
 The design of this font is part of a research process around digital creation tools conducted by va.ri.mo. in Reims since 2022. 
 
 ___CONTACT___
+
 For any question, request or review, contact me by email at antoine@atelier-varimo.fr :) 
 I would be glad to talk about font with you !
 Please, feel free to share your work and creations using this font :)
