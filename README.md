@@ -2,7 +2,7 @@
 
 ___ABOUT THE FONT___
 
-VRM HIKARU is a free monospace font designed by Antoine Sigur at atelir va.ri.mo., feel free tu use it, modify it or distribute it. 
+VRM HIKARU is a free monospace font designed by Antoine Sigur at atelier va.ri.mo., feel free tu use it, modify it or distribute it. 
 
 The VRM HIKARU is drawn on an online Go game board. Every Glyph is the result of an online confrontation.
 This process makes it a kind of collaboration between the designer placing the black pawns and the AI placing the white ones. However, the AI doesn't know he his a part of a design process. In its atempt to win the game, it generates disturbances of the drawing, interpreting it a strategy. 
