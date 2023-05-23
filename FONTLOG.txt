@@ -1,0 +1,12 @@
+___FONTLOG for VRM HIKARU font___
+
+This file provides detailed information on the VRM HIKARU font.
+This information should be distributed along with the VRM HIKARU font
+and any derivative works.
+
+___Informations___
+
+This font was designed in 2023 by Antoine Sigur at atelier va.ri.mo. in Reims. (www.atelier-varimo.fr)
+It is free to download, use, modify or share.
+
+Copyright (c) 2023, Antoine Sigur 
