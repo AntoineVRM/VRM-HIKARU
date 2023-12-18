@@ -1,4 +1,4 @@
-# VRM-HIKARU
+# (VRM) HIKARU MONO
 
 ___ABOUT THE FONT___
 
